@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/informedMemes/static/css/main.81432683.chunk.css",
+    "main.js": "/informedMemes/static/js/main.5178fcf3.chunk.js",
+    "main.js.map": "/informedMemes/static/js/main.5178fcf3.chunk.js.map",
+    "runtime-main.js": "/informedMemes/static/js/runtime-main.2e0fa6be.js",
+    "runtime-main.js.map": "/informedMemes/static/js/runtime-main.2e0fa6be.js.map",
+    "static/js/2.36fc98b6.chunk.js": "/informedMemes/static/js/2.36fc98b6.chunk.js",
+    "static/js/2.36fc98b6.chunk.js.map": "/informedMemes/static/js/2.36fc98b6.chunk.js.map",
+    "index.html": "/informedMemes/index.html",
+    "precache-manifest.3da23026d29a8f37c1270f214dca939c.js": "/informedMemes/precache-manifest.3da23026d29a8f37c1270f214dca939c.js",
+    "service-worker.js": "/informedMemes/service-worker.js",
+    "static/css/main.81432683.chunk.css.map": "/informedMemes/static/css/main.81432683.chunk.css.map",
+    "static/js/2.36fc98b6.chunk.js.LICENSE.txt": "/informedMemes/static/js/2.36fc98b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0fa6be.js",
+    "static/js/2.36fc98b6.chunk.js",
+    "static/css/main.81432683.chunk.css",
+    "static/js/main.5178fcf3.chunk.js"
+  ]
+}
